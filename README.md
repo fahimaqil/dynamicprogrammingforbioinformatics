@@ -4,6 +4,6 @@ The Smith–Waterman algorithm performs local sequence alignment; that is, for d
 
 Source: https://en.wikipedia.org/wiki/Smith–Waterman_algorithm
 
-##How to run
+## How to run
 ```python3 dynprog.py
 ```
